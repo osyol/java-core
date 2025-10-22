@@ -1,0 +1,19 @@
+Question 1: What I've 
+Option 1: a - done
+Option 2: b - made
+Option 3: c - lost
+Option 4: 'done'
+Option 5: done
+Correct answer: a - done
+---
+Question 2: In the
+a) end
+b) numb
+c) lost
+d) sky
+Correct answer: a
+---
+Question 3: 'exit'
+a) exit
+Correct answer: unknown
+---
